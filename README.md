@@ -1,2 +1,3 @@
-# js-bits
+# ![JS](icon.svg) js-bits
+
 Boost Your Code with Tiny JS Snippets
